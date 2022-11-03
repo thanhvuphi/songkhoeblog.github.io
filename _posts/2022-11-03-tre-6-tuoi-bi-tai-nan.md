@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ---
 layout: post
@@ -52,4 +52,3 @@ Tham khảo ngay:
 - **[6 gói bảo hiểm tai nạn dành cho trẻ em](https://gobowtie.com/vn/vi/blog/goi-bao-hiem-tai-nan-danh-cho-tre-em/ "6 gói bảo hiểm tai nạn dành cho trẻ em")**
 
 - **[Bảo hiểm thân thể học sinh: Những điều bố mẹ cần biết](https://gobowtie.com/vn/vi/blog/bao-hiem-than-the-hoc-sinh/ "Bảo hiểm thân thể học sinh: Những điều bố mẹ cần biết")**
-
