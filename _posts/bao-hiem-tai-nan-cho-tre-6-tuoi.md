@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 # Trẻ dưới 6 tuổi bị tai nạn có được hưởng bảo hiểm y tế?
@@ -44,12 +44,3 @@ Tham khảo ngay:
 - **[6 gói bảo hiểm tai nạn dành cho trẻ em](https://gobowtie.com/vn/vi/blog/goi-bao-hiem-tai-nan-danh-cho-tre-em/ "6 gói bảo hiểm tai nạn dành cho trẻ em")**
 
 - **[Bảo hiểm thân thể học sinh: Những điều bố mẹ cần biết](https://gobowtie.com/vn/vi/blog/bao-hiem-than-the-hoc-sinh/ "Bảo hiểm thân thể học sinh: Những điều bố mẹ cần biết")**
-
-
-
-
-
-
-
-
-
