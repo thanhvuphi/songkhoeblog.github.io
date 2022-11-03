@@ -1,15 +1,6 @@
 ---
 published: true
 ---
----
-layout: post
-title: Trẻ dưới 6 tuổi bị tai nạn có được hưởng bảo hiểm y tế
-description: Tìm hiểu ngay quy định bảo hiểm y tế khi trẻ dưới 6 tuổi bị tai nạn 
-tags: bao hiem y te
-permalink: /bao-hiem-tai-nan-cho-tre-6-tuoi/
----
-
-
 # Trẻ dưới 6 tuổi bị tai nạn có được hưởng bảo hiểm y tế?
 
 Căn cứ Điều 11 Thông tư 40/2015/TT-BYT quy định các trường hợp được xác định là đúng tuyến khám bệnh, chữa bệnh bảo hiểm y tế như sau: Nếu trong trường hợp con anh phải thực hiện cấp cứu thì lúc này sau giai đoạn điều trị cấp cứu, anh có thể lựa chọn bệnh viên nơi cấp cứu hoặc bệnh viện khác hoặc bệnh viện đăng ký nơi khám chữa bệnh ban đầu đều được xác định là đi khám bệnh đúng tuyến.
