@@ -1,6 +1,14 @@
 ---
 published: true
 ---
+---
+layout: post
+title: Trẻ dưới 6 tuổi bị tai nạn có được hưởng bảo hiểm y tế
+description: Tìm hiểu ngay quy định bảo hiểm y tế khi trẻ dưới 6 tuổi bị tai nạn 
+tags: bao hiem y te
+permalink: /bao-hiem-tai-nan-cho-tre-6-tuoi/
+---
+
 
 # Trẻ dưới 6 tuổi bị tai nạn có được hưởng bảo hiểm y tế?
 
